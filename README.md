@@ -1,3 +1,1 @@
-# My_Projects
-
-📊 Turning Data into Insights – A repository of my data analytics, visualization, and forecasting projects, solving real-world business problems.
+📊 Instagram User Analytics using MySQL – Analyzing user engagement, content performance, and growth trends with SQL queries.🚀
